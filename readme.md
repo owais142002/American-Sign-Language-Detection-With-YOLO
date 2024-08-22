@@ -38,6 +38,14 @@ training/
 ├── train.ipynb       # Jupyter notebook for training and experimenting with the YOLOv8 model.
 └── yolov8n.pt        # Pre-trained YOLOv8 model used for initializing training.
 ```
+
+## Project Demo
+
+https://github.com/user-attachments/assets/6564970b-b950-4be9-8606-b2a5b63e0d39
+
+https://github.com/user-attachments/assets/761b9ee4-25b7-4c14-92d2-dd3a8494ceca
+
+
 ## Getting Started
 
 ### Prerequisites
